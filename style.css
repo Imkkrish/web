@@ -1,4 +1,3 @@
-body{
-    background-color: rgb(243, 203, 251);
-    color: white;
+td{
+    border: 2px solid black;
 }
